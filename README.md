@@ -1,1 +1,1 @@
-React.Redu App based on the course of StephenGrider
+React.Redux App based on the course of StephenGrider
