@@ -20,7 +20,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <SearchBar />
+        <SearchBar  />
         <VideoList videos={this.state.videos} />
       </div>
     )
